@@ -1,0 +1,8 @@
+C:\Users\9527\documents\visual studio 2015\Projects\CpabBHO2\CpabBHO2\bin\Debug\CpabBHO2.dll
+C:\Users\9527\documents\visual studio 2015\Projects\CpabBHO2\CpabBHO2\bin\Debug\CpabBHO2.pdb
+C:\Users\9527\documents\visual studio 2015\Projects\CpabBHO2\CpabBHO2\bin\Debug\Interop.SHDocVw.dll
+C:\Users\9527\documents\visual studio 2015\Projects\CpabBHO2\CpabBHO2\obj\Debug\Interop.SHDocVw.dll
+C:\Users\9527\documents\visual studio 2015\Projects\CpabBHO2\CpabBHO2\obj\Debug\CpabBHO2.csproj.ResolveComReference.cache
+C:\Users\9527\documents\visual studio 2015\Projects\CpabBHO2\CpabBHO2\obj\Debug\CpabBHO2.dll
+C:\Users\9527\documents\visual studio 2015\Projects\CpabBHO2\CpabBHO2\obj\Debug\CpabBHO2.pdb
+C:\Users\9527\documents\visual studio 2015\Projects\CpabBHO2\CpabBHO2\bin\Debug\Microsoft.mshtml.dll
